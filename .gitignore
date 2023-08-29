@@ -12,6 +12,7 @@ coverage/
 build/
 
 # misc
+knexfile.js
 .eslintcache
 .DS_Store
 .env
